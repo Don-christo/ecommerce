@@ -62,6 +62,10 @@ yarn install
 yarn run build
 yarn build:watch (in watch mode)
 
+# Add your environmental variables
+create `.env` file in the root directory and add the following:
+PORT=3000
+
 # Start the server
 yarn dev (in development mode)
 yarn start (in production mode)
