@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Basic T-Shirt",
+    "category": "Apparel",
+    "price": 19.99
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 49.99
+  },
+  {
+    "id": 3,
+    "name": "Baseball Cap",
+    "category": "Apparel",
+    "price": 9.99
+  },
+  {
+    "name": "OBO Rolex Chains",
+    "category": "Designer",
+    "price": 2675.66,
+    "id": 4
+  },
+  {
+    "name": "OBO Rolex Chains",
+    "category": "Designer",
+    "price": 2675.66,
+    "id": 5
+  },
+  {
+    "name": "OBO Rolex Chains",
+    "category": "Designer",
+    "price": 2675.66,
+    "id": 6
+  }
+]

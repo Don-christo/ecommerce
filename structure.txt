@@ -1,0 +1,19 @@
+.
+├── README.md
+├── data
+│   └── products.json
+├── package.json
+├── src
+│   ├── app.ts
+│   ├── controllers
+│   │   └── products
+│   ├── routes
+│   │   ├── index.ts
+│   │   └── products.ts
+│   └── utilities
+│       └── validators.ts
+├── structure.txt
+├── tsconfig.json
+└── yarn.lock
+
+7 directories, 10 files
